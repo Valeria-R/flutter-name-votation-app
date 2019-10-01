@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">188093632867-2e1ubu6fmnoa67747acssi6me8tdbanu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://baby-names-ea194.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">188093632867</string>
+    <string name="google_api_key" translatable="false">AIzaSyC8TKsrA_WOS5slWodaK_hcFdY0JM60QRA</string>
+    <string name="google_app_id" translatable="false">1:188093632867:android:d4ef070d5229b3716bc356</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC8TKsrA_WOS5slWodaK_hcFdY0JM60QRA</string>
+    <string name="google_storage_bucket" translatable="false">baby-names-ea194.appspot.com</string>
+    <string name="project_id" translatable="false">baby-names-ea194</string>
+</resources>
